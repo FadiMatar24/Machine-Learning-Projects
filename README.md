@@ -4,4 +4,6 @@ In the process of studying Machine Learning, I am sharing my projects along the 
 
 ## Some Projects:
 
-1. iris dataset
+1. Iris Dataset
+2. House Price Prediction
+3. Churn Dataset 
