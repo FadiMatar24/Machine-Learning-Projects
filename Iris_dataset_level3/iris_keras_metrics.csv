@@ -1,0 +1,2 @@
+test_loss,test_accuracy,n_train,n_val,n_test
+0.050732340663671494,0.9666666388511658,90,30,30
